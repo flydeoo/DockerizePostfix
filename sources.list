@@ -1,0 +1,7 @@
+#------------------------------------------------------------------------------#
+#                            OFFICIAL UBUNTU REPOS                             #
+#------------------------------------------------------------------------------#
+
+
+###### Ubuntu Main Repos
+deb http://fi.archive.ubuntu.com/ubuntu/ bionic main restricted universe multiverse 
