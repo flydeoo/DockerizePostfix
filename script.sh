@@ -2,6 +2,8 @@
 arr=( "$@" )
 echo Your container args are: "$@"
 
+service postfix start
+
 name="name"
 
 if [[ " ${arr[@]} " =~ " ${name} " ]]; then
